@@ -1,0 +1,7 @@
+print("Lai aprēķināu laukumu nepieciešamai tev figūrai lūdzu nospied burtu kurš tai atbilst")
+print("T - ja figūra kaurai vlies aprēkķināt laukumu ir trijstūris")
+print("Tr - ja figūra kaurai vlies aprēkķināt laukumu ir trapece")
+print("P - ja figūra kaurai vlies aprēkķināt laukumu ir paralelograms")
+print("Ta - ja figūra kaurai vlies aprēkķināt laukumu ir taisnstūris")
+print("K - ja figūra kaurai vlies aprēkķināt laukumu ir kvadrāts")
+print("R - ja figūra kaurai vlies aprēkķināt laukumu ir riņķis")
